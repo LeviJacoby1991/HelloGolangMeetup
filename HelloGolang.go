@@ -6,7 +6,7 @@ import (
 	"github.com/LeviJacoby1991/fizbuzz"
 )
 
-func hellowrld() {
+func helloworld() {
 	fmt.Println("Hello Golang!")
 	fizbuzz.Fizzbuzz()
 }
